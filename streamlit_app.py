@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-from snowflake.snowpark.functions import col
+# from snowflake.snowpark.functions import col
 
 # Write directly to the app
 st.markdown("<h1>🥤 Customize Your Smoothie! 🥤</h1>", unsafe_allow_html=True)
